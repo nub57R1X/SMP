@@ -1,0 +1,20 @@
+name: 57R1XPlugin
+version: 1.0
+author: 57R1X
+main: com.kishore.commands.Plugin
+description: BEGONE HACKER
+api-version: 1.13
+depend: [TitleAPI]
+
+
+commands:
+  register:
+  login:
+  reset:
+  dclink:
+  heart:
+  resurrect:
+
+
+
+
